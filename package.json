@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "npm-bundled": "^3.0.0",
-    "npm-normalize-package-bin": "^3.0.0"
+    "npm-normalize-package-bin": "^5.0.0"
   },
   "repository": {
     "type": "git",
